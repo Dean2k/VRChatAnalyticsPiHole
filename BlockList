@@ -1,4 +1,4 @@
-// VRChat
+# VRChat
 0.0.0.0 api.amplitude.com
 0.0.0.0 api2.amplitude.com
 0.0.0.0 api.lab.amplitude.com
@@ -11,7 +11,7 @@
 0.0.0.0 info.amplitude.com
 0.0.0.0 static.amplitude.com
 
-// Unity
+# Unity
 0.0.0.0 api.uca.cloud.unity3d.com
 0.0.0.0 config.uca.cloud.unity3d.com
 0.0.0.0 perf-events.cloud.unity3d.com
